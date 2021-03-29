@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":328:{a:2:{s:7:"defects";a:4:{s:17:"UserTest::testAge";i:3;s:18:"WordsTest::testAge";i:4;s:29:"WordsTest::testReplaceSymbols";i:3;s:24:"WordsTest::testWordCount";i:3;}s:5:"times";a:4:{s:17:"UserTest::testAge";d:0.013;s:18:"WordsTest::testAge";d:0.011;s:24:"WordsTest::testWordCount";d:0.012;s:29:"WordsTest::testReplaceSymbols";d:0;}}}
